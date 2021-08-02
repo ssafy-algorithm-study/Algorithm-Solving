@@ -1,6 +1,6 @@
 <div align="center">
   <br />
-  <img src="./images/swea_logo.png" alt="SW Expert Academy" />
+  <img src="./images/swea_logo.png" alt="SW Expert Academy" height="250px" />
   <h2>SW Expert Academy 문제풀이</h2>
   <br />
 </div>
