@@ -1,4 +1,3 @@
-package D4;
 import java.util.Scanner;
 import java.util.Stack;
 

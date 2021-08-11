@@ -1,4 +1,3 @@
-
 public class SWEA2027 {
 
 	public static void main(String[] args) {

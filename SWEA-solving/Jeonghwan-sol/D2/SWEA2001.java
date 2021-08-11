@@ -1,4 +1,3 @@
-package D2;
 import java.util.Scanner;
 
 public class SWEA2001 {
