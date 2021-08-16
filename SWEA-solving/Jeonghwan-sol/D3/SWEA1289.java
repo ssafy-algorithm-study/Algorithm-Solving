@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class Solution {
+public class SWEA1289 {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
@@ -24,5 +24,7 @@ class Solution {
 			
 			System.out.println("#" + tc + " " + cnt);
 		}
+		
+		sc.close();
 	}
 }
