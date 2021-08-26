@@ -20,6 +20,10 @@ public class SWEA7236 {
 				}
 			}
 		}
+
+		if (cnt == 0) {
+			cnt = 1;
+		}
 		
 		return cnt;
 	}
